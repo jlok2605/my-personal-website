@@ -3,6 +3,9 @@
 
 }
 
+header {
+    padding-right: 50px;
+}
 a { 
     text-decoration: none; 
     color: whitesmoke;
@@ -90,7 +93,7 @@ nav {
 
 
 #mywork {
-    padding: 100px 0px 0px 10rem
+    padding: 100px 0px 0px 1rem
 }
 #mywork img {
     width: 600px;
@@ -106,8 +109,8 @@ nav {
 
 #mywork p {
     margin-left: 10px;
-    max-width: 150px;
     text-align: left;
+    max-width: 700px;
 }
 #mywork h3 {
     font-size:x-large;
@@ -123,7 +126,8 @@ nav {
 }
 
 table {
-    width: 100rem       
+    width: 100rem;
+    table-layout: fixed;       
 }
 
 #contact {
