@@ -6,6 +6,8 @@
 a { 
     text-decoration: none; 
     color: whitesmoke;
+    font-size: 20px;
+    margin-right: 1em;
 }
 
 a:link { 
@@ -19,7 +21,7 @@ a:visited {
 a:hover { 
     text-decoration: none; 
     border: white 1px solid;
-
+    font-size: x-large;
 }
 
 a:active { 
@@ -46,11 +48,12 @@ nav {
 }
 
 #navlinks a {
-    margin-left: 2rem;
-    padding: 10px;
+    margin-left: 1rem;
+    padding: 1rem;
+    padding-right: 40px;
 }
 #introduction {
-    padding: 300px 0px 0px 10rem;
+    padding: 300px 0px 0px 1rem;
     font-size: x-large;
     
 
@@ -68,12 +71,13 @@ nav {
 
 
 #Aboutme {
-    padding: 15rem 0px 0px 10rem;
+    padding: 15rem 0px 0px 1rem;
+    
     }
 
 #Aboutme p {
     text-align:justify  ;
-    max-width: 900px;
+    max-width: 1300px
    }
 
 
@@ -107,15 +111,15 @@ nav {
 }
 
 #Experience {
-    padding-left: 150px;
+    padding-left: 2rem;
 }
 
 table {
-    width:2000px;       
+    width: 100rem       
 }
 
 #contact {
-    padding:150px 0px 0px 9rem;
+    padding: 2rem
 }
 
 #contact a {
