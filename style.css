@@ -1,0 +1,124 @@
+* {
+    font-family: serif;;
+}
+
+a { 
+    text-decoration: none; 
+    color: whitesmoke;
+}
+
+a:link { 
+    text-decoration: none; 
+}
+
+a:visited {
+     text-decoration: none; 
+}
+
+a:hover { 
+    text-decoration: none; 
+    border: white 1px solid;
+
+}
+
+a:active { 
+    text-decoration: none; 
+}
+
+
+
+body {
+    background-color:  #081421;
+    color: rgba(245, 245, 245, 0.864);
+    padding-left: 130px;
+}
+
+nav {
+    display: flex;
+    justify-content: right;
+    font-size: x-large;
+}
+
+#navlinks {
+    display: flex ;
+    list-style-type: none;
+}
+
+#navlinks a {
+    margin-left: 2rem;
+    padding: 10px;
+}
+#introduction {
+    padding: 300px 0px 0px 10rem;
+    font-size: x-large;
+    
+
+}
+#introduction h2 {
+    max-width: 700px;
+}
+
+#lightbulb {
+    float: right;
+    clear: left;
+    padding-top: 100px;
+    
+}
+
+
+#Aboutme {
+    padding: 500px 0px 0px 10rem;
+    }
+
+#Aboutme p {
+    text-align:justify  ;
+    max-width: 900px;
+   }
+
+
+#mywork {
+    padding: 100px 0px 0px 10rem
+}
+#mywork img {
+    width: 600px;
+    height: 400px;
+    margin-bottom: 100px;
+    border-radius: 20px;
+    border: white solid 30px;
+}
+
+#mywork div {
+    display: flex;   
+}
+
+#mywork p {
+    margin-left: 10px;
+    max-width: 150px;
+    text-align: left;
+}
+#mywork h3 {
+    font-size:x-large;
+}
+#languages {
+    padding-top: 800px;
+}
+
+#Experience {
+    padding-left: 200px;
+}
+
+table {
+    width:2000px;
+    
+    
+
+    
+}
+
+#contact {
+    padding:200px 0px 0px 10rem;
+}
+
+#contact a {
+    padding: 1em;
+}
