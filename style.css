@@ -61,13 +61,13 @@ nav {
 #lightbulb {
     float: right;
     clear: left;
-    padding-top: 100px;
+    padding: 100px 12rem 0px 0px;
     
 }
 
 
 #Aboutme {
-    padding: 500px 0px 0px 10rem;
+    padding: 15rem 0px 0px 10rem;
     }
 
 #Aboutme p {
@@ -99,24 +99,20 @@ nav {
 #mywork h3 {
     font-size:x-large;
 }
-#languages {
-    padding-top: 800px;
+.knowledge {
+    padding-top: 15rem;
 }
 
 #Experience {
-    padding-left: 200px;
+    padding-left: 150px;
 }
 
 table {
-    width:2000px;
-    
-    
-
-    
+    width:2000px;       
 }
 
 #contact {
-    padding:200px 0px 0px 10rem;
+    padding:150px 0px 0px 9rem;
 }
 
 #contact a {
