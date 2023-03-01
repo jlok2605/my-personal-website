@@ -99,8 +99,10 @@ nav {
 #mywork h3 {
     font-size:x-large;
 }
-.knowledge {
+.knowledge div {
     padding-top: 15rem;
+    display: inline-flex ;
+    width: 500px;
 }
 
 #Experience {
