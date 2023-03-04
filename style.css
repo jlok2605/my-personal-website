@@ -1,6 +1,5 @@
 * {
-    font-family: 'Open Sans', sans-serif;
-
+    font-family: 'Open Sans', sans-serif;  
 }
 
 header {
@@ -60,9 +59,8 @@ nav {
 #introduction {
     padding: 300px 0px 0px 1rem;
     font-size: x-large;
-    
-
 }
+
 #introduction h2 {
     max-width: 700px;
 }
@@ -71,7 +69,6 @@ nav {
     float: right;
     clear: left;
     padding: 100px 12rem 0px 0px;
-    
 }
 
 
@@ -82,13 +79,18 @@ nav {
 
 #Aboutme p {
     text-align:justify  ;
-    max-width: 1300px
+    max-width: 1300px ;
+    font-size: larger;
    }
 #Aboutme img {
     display: block;
   margin-left: auto;
   margin-right: auto;
     width: 50%;
+    padding-right: 100px;
+}
+#frameworks li {
+    font-size: larger;
 }
 
 
@@ -111,6 +113,7 @@ nav {
     margin-left: 10px;
     text-align: left;
     max-width: 700px;
+    font-size: larger;
 }
 #mywork h3 {
     font-size:x-large;
