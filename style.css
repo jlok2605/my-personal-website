@@ -7,8 +7,7 @@ header {
 }
 
 #navlinks li {
-    margin-right: 10px;
-    
+    margin-right: 15px;
 }
 
 #navlinks li:hover { 
@@ -28,7 +27,7 @@ a:link {
 }
 
 a:visited {
-     text-decoration: none; 
+    text-decoration: none; 
 }
 
 a:hover { 
@@ -85,7 +84,7 @@ nav {
 #Aboutme {
     padding: 15rem 0px 0px 1rem;
     
-    }
+}
 
 #Aboutme p {
     text-align:justify  ;
@@ -98,15 +97,18 @@ nav {
     margin-right: auto;
     width: 50%;
     padding-right: 100px;
-    }
+
+}
+
 #frameworks li {
     font-size: larger;
-    }
+}
 
 
 #mywork {
     padding: 100px 0px 0px 1rem
 }
+
 #mywork img {
     width: 600px;
     height: 400px;
@@ -124,6 +126,7 @@ nav {
     text-align: left;
     max-width: 700px;
     font-size: larger;
+    padding-top: 9em;
 }
 #mywork h3 {
     font-size:x-large;
